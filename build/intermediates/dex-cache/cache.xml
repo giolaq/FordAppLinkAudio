@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joaobiriba/Documents/Projects/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/libs/AppLinkSDKAndroid-2-2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d1c2b37831f197b893547c3c41162d631f542dbd">
+        <dex dex="/Users/joaobiriba/Documents/Projects/AndroidDemoProjects/FordAppLinkAudio/fordapplinkaudio/build/intermediates/pre-dexed/debug/AppLinkSDKAndroid-2-2-a7dc7cc0df076dd3a60d20e0316abc72461b5a22.jar" />
+    </item>
+
+</items>

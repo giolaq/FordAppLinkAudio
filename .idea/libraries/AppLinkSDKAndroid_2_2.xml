@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AppLinkSDKAndroid-2-2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fordapplinkaudio/libs/AppLinkSDKAndroid-2-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
